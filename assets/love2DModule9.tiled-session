@@ -1,0 +1,240 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maps/level1.tmx",
+    "expandedProjectPaths": [
+        "maps",
+        "object_templates",
+        ".",
+        "object_templates/blocks",
+        "tilesets",
+        "object_templates/collectible"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/1 - Foreground_scenery.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/1 - Waters_version_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/3 - Cloud_cover_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/3 - Floating_clouds.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/5 - Sky_color.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/blocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "maps/coin.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/congrats.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/flowers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/grassland_entities.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/grassland_terrain.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/heart.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/level.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1022.7272727272726,
+                "y": 686.3636363636363
+            }
+        },
+        "maps/level.tmx#1 - Waters_version_1": {
+            "scaleInDock": 1
+        },
+        "maps/level.tmx#3 - Cloud_cover_1": {
+            "scaleInDock": 1
+        },
+        "maps/level.tmx#3 - Floating_clouds": {
+            "scaleInDock": 1
+        },
+        "maps/level.tmx#5 - Sky_color": {
+            "scaleInDock": 1
+        },
+        "maps/level.tmx#blocks": {
+            "scaleInDock": 1
+        },
+        "maps/level.tmx#flowers": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/level.tmx#grassland_entities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/level.tmx#grassland_terrain": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 2,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 3056,
+                "y": 226.25
+            }
+        },
+        "maps/level1.tmx#1 - Waters_version_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/level1.tmx#3 - Cloud_cover_1": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#3 - Floating_clouds": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#5 - Sky_color": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#blocks": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#flowers": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#grassland_entities": {
+            "scaleInDock": 1
+        },
+        "maps/level1.tmx#grassland_terrain": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/level2.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1600,
+                "y": 164.25
+            }
+        },
+        "maps/mapLevel1.tmx": {
+            "scale": 1.6011458333333333,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 330.3883937284497,
+                "y": -74.63405113525471
+            }
+        },
+        "maps/mr_man.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/round_dudes.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/winter_entities.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/winter_terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/1 - Waters_version_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/3 - Cloud_cover_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/5 - Sky_color.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/blocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/flowers.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/grassland_entities.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/grassland_terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Sciss/Desktop/2025 Spring classes/227 Applied programming/projects/GameProject/jacob/updated files/Love2Dexercise10/assets/maps",
+    "last.imagePath": "C:/Users/Sciss/Desktop/2025 Spring classes/227 Applied programming/projects/GameProject/jacob/updated files/Love2Dexercise10/assets/graphics/tilesets",
+    "last.objectTemplatePath": "C:/Users/Sciss/Desktop/2025 Spring classes/227 Applied programming/projects/Love2Dexercise10/assets/object_templates/collectible",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 200,
+    "openFiles": [
+        "maps/level1.tmx",
+        "maps/level2.tmx",
+        "maps/grassland_terrain.tsx",
+        "maps/round_dudes.tsx"
+    ],
+    "project": "love2DModule9.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "maps/round_dudes.tsx",
+        "maps/grassland_terrain.tsx",
+        "maps/level2.tmx",
+        "maps/level1.tmx",
+        "maps/congrats.tsx",
+        "maps/blocks.tsx",
+        "maps/winter_entities.tsx",
+        "maps/winter_terrain.tsx",
+        "maps/heart.tsx",
+        "maps/mr_man.tsx",
+        "maps/coin.tsx",
+        "maps/grassland_entities.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

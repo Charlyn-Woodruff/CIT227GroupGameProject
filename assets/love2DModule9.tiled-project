@@ -1,0 +1,312 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+    ],
+    "compatibilityVersion": 1100,
+    "extensionsPath": ".",
+    "folders": [
+        "."
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+        {
+            "id": 6,
+            "name": "",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 2,
+            "members": [
+                {
+                    "name": "block_type",
+                    "propertyType": "block_types",
+                    "type": "string",
+                    "value": "red_breakable"
+                },
+                {
+                    "name": "breakable",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "collidable",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "lethal",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "movable",
+                    "type": "bool",
+                    "value": false
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "block"
+                }
+            ],
+            "name": "block",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "block_types",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+                "red_breakable",
+                "green_breakable",
+                "brown_breakable",
+                "movable"
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 5,
+            "members": [
+                {
+                    "name": "collidable",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "points",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "sound",
+                    "type": "file",
+                    "value": "sound/Pickup_coin 3.wav"
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "coin"
+                }
+            ],
+            "name": "collectible",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "collectible_types",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 8,
+            "members": [
+                {
+                    "name": "collidable",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "height",
+                    "type": "int",
+                    "value": 16
+                },
+                {
+                    "name": "hits",
+                    "type": "int",
+                    "value": 1
+                },
+                {
+                    "name": "ox",
+                    "type": "int",
+                    "value": 4
+                },
+                {
+                    "name": "oy",
+                    "type": "int",
+                    "value": 2
+                },
+                {
+                    "name": "patrol_range",
+                    "type": "int",
+                    "value": 50
+                },
+                {
+                    "name": "patrol_speed",
+                    "type": "int",
+                    "value": 50
+                },
+                {
+                    "name": "points",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "red_dude"
+                },
+                {
+                    "name": "width",
+                    "type": "int",
+                    "value": 16
+                }
+            ],
+            "name": "enemy",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "enemy_type",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 11,
+            "members": [
+                {
+                    "name": "collidable",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "points",
+                    "type": "int",
+                    "value": 1
+                },
+                {
+                    "name": "sound",
+                    "type": "file",
+                    "value": "sound/Powerup 2.wav"
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "heart"
+                }
+            ],
+            "name": "heart",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "heart_type",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+            ],
+            "valuesAsFlags": false
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 4,
+            "members": [
+                {
+                    "name": "height",
+                    "type": "int",
+                    "value": 0
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "spawn_point"
+                },
+                {
+                    "name": "width",
+                    "type": "int",
+                    "value": 16
+                }
+            ],
+            "name": "spawn_point",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "color": "#ffa0a0a4",
+            "drawFill": true,
+            "id": 13,
+            "members": [
+                {
+                    "name": "collidable",
+                    "type": "bool",
+                    "value": true
+                },
+                {
+                    "name": "points",
+                    "type": "int",
+                    "value": 1
+                },
+                {
+                    "name": "sound",
+                    "type": "file",
+                    "value": "sound/Hit_hurt 6.wav"
+                },
+                {
+                    "name": "type",
+                    "type": "string",
+                    "value": "spike"
+                }
+            ],
+            "name": "spike",
+            "type": "class",
+            "useAs": [
+                "property",
+                "object",
+                "project"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "spike_type",
+            "storageType": "string",
+            "type": "enum",
+            "values": [
+            ],
+            "valuesAsFlags": false
+        }
+    ]
+}
