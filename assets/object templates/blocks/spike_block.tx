@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <tileset firstgid="1" source="../../maps/blocks.tsx"/>
+ <object name="spike_block" type="block" gid="37" width="16" height="16">
+  <properties>
+   <property name="lethal" type="bool" value="true"/>
+  </properties>
+ </object>
+</template>

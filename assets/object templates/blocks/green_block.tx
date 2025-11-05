@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <tileset firstgid="1" source="../../maps/blocks.tsx"/>
+ <object name="green_block_brk" type="block" gid="34" width="16" height="16">
+  <properties>
+   <property name="block_type" propertytype="block_types" value="green_breakable"/>
+   <property name="breakable" type="bool" value="true"/>
+  </properties>
+ </object>
+</template>
